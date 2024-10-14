@@ -1,0 +1,14 @@
+<!DOCTY2E html>
+<html>
+<head>
+    <title>Welcome to My Website</title>
+ <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+     <h1>Welcome to Lee's page</h1>
+     <body>
+         <img src="images/abc.jpg" alt=“abc Image" width="300">
+        </body>
+        
+</body>
+</html>

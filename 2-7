@@ -1,0 +1,10 @@
+<!DOCTY2E html>
+<html>
+<head>
+    body>
+     <p>This is <u>underlined</u> text.</p>
+     <p>This is <ins>newly inserted</ins> text.</p>
+     <p>Water is H<sub>2</sub>O.</p>
+    
+ <p>This is x<sup>2</sup>.</p>
+</body>
